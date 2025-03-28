@@ -22,4 +22,8 @@ Untuk method pada kelas yaitu getter dan setter untuk tiap atribut.
   
 ## Dokumentasi
 https://github.com/user-attachments/assets/0ec5a0ab-7ab2-44a2-bacf-895dd82f4e9c
+- Harusnya ada alert di video tapi tidak masuk record
+
+  
+
 
