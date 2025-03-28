@@ -5,6 +5,9 @@ Saya Muhammad Daffa Rizmawan Harahap mengerjakan TP5 dalam mata kuliah DPBO untu
 ## Desain GUI
 ![Screenshot 2025-03-23 010823](https://github.com/user-attachments/assets/2e0d2ca0-8375-475e-884a-0e5c08b5b800)
 
+## Desain Tabel pada Database
+![image](https://github.com/user-attachments/assets/632ac797-56af-4fda-a7b6-e1f5093a665c)
+
 ## Desain Program
 Program ini menerapkan beberapa konsep CRUD untuk data Mahasiswa menggunakan Java Swing. Hanya ada satu kelas Mahasiswa yang memiliki atribut: NIM, Nama, Jenis Kelamin, dan Prodi.
 Untuk method pada kelas yaitu getter dan setter untuk tiap atribut.
@@ -18,7 +21,5 @@ Untuk method pada kelas yaitu getter dan setter untuk tiap atribut.
 6. Menghapus Data: Untuk menghapus, pilih salah satu data dari tabel kemudian tekan tombol "Delete"
   
 ## Dokumentasi
-![Tambah Data](https://github.com/user-attachments/assets/ca9c8b3c-16eb-4c13-8c70-774574b723c2)
-![Select Data](https://github.com/user-attachments/assets/fa67c34d-03ce-4dad-8f47-164b04bcd6d1)
-![Ubah Data](https://github.com/user-attachments/assets/9a05c50d-77ca-47b2-ba55-d7cf2258dfa1)
-![Hapus Data](https://github.com/user-attachments/assets/c210712b-9a68-40b3-ab80-ec4b3859be4d)
+https://github.com/user-attachments/assets/0ec5a0ab-7ab2-44a2-bacf-895dd82f4e9c
+
